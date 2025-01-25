@@ -1,2 +1,2 @@
 # PairsTradingModel
-Pairs Trading Model made using clustering and recurrent neural networks
+Pairs Trading Model using clustering to find the best pair to trade
